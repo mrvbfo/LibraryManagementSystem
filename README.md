@@ -8,22 +8,27 @@ Bu projeyi, Windows Forms C# ve MySql kullanarak geliştirdim. Kütüphane yöne
 
 ## Giriş Ekranı 
 Sadece kütüphanecilerin sisteme giriş yapabilmesini sağlar. Kütüphaneciler tarafindan sisteme email ve şifre ile giriş yapılabilir.
+
 <img src="https://github.com/mrvbfo/LibraryManagementSystem/blob/main/images/giris.png" alt="alt text" width="600" height="400">
 
 ## Menü Ekranı
 Sistemdeki tüm işlemler bu ekrandan seçim yapılarak gerçekleştirilir.
+
 <img src="https://github.com/mrvbfo/LibraryManagementSystem/blob/main/images/men%C3%BC.png" alt="alt text" width="600" height="400">
 
 ## Üye Yönetimi
 Kullanıcı ekleme, güncelleme ve silme işlemleri yapılır. Kullanıcıların yönetimi için bir kütüphaneci seçilir.
+
 <img src="https://github.com/mrvbfo/LibraryManagementSystem/blob/main/images/member.png" alt="alt text" width="600" height="400">
 
 ## Kütüphaneci Yönetimi
 Kütüphaneci ekleme, silme ve güncelleme imkanı sunar.
+
 <img src="https://github.com/mrvbfo/LibraryManagementSystem/blob/main/images/librarian.png" alt="alt text" width="600" height="400">
 
 ## Kitap Yönetimi
 Kitap eklemek, güncellemek ve silmek mümkündür. Bu işlem yapılırken kitap yönetimi için kütüphaneci seçilir.
+
 <img src="https://github.com/mrvbfo/LibraryManagementSystem/blob/main/images/book.png" alt="alt text" width="600" height="400">
 
 ## Kitap Ödünç Verme
@@ -33,6 +38,7 @@ Kullanıcıların kitap ödünç alma işlemleri gerçekleştirilir. Borrow ve B
 
 ## Kitap Arama
 Kitap adına göre, yayınevine ve yazar adına göre arama işlemleri gerçekleştirilir.
+
 <img src="https://github.com/mrvbfo/LibraryManagementSystem/blob/main/images/booksearch.png" alt="alt text" width="600" height="400">
 
 ## Borç Ödeme
@@ -47,5 +53,6 @@ Kitap iade etme işlemleri gerçekleştirilir. Borrow tablosu üzerinden sorgu y
 
 ## Kitap Listeleri
 Tüm kitaplar, ödünç verilmiş kitaplar, mevcut alınabilir kitaplar listelenir.
+
 <img src="https://github.com/mrvbfo/LibraryManagementSystem/blob/main/images/booklist.png" alt="alt text" width="600" height="400">
 
