@@ -42,6 +42,7 @@ Borrow ve Member tablosu üzerinden sorgular yapılarak borçlu olan kullanıcı
 
 ## Kitap İade İşlemi
 Kitap iade etme işlemleri gerçekleştirilir. Borrow tablosu üzerinden sorgu yapılır ve ödünç verilmiş kitaplar listelenir. Kitap iadesi yapılırken gecikme ücreti(delay_fine) hesaplanır. Hesaplama işlemi gecikilen gün sayısının 100 katı olacak şekilde SQL sorgusu üzerinden yapılır. İade yapılmış bir kitap için book_status değeri 1’dir.
+
 <img src="https://github.com/mrvbfo/LibraryManagementSystem/blob/main/images/return.png" alt="alt text" width="600" height="400">
 
 ## Kitap Listeleri
